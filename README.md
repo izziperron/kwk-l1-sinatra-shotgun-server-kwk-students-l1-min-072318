@@ -35,7 +35,7 @@ up a Rack server. You should see something like this:
 Pay attention to the line that says `Listening on localhost:9292`.
 The port will not be numbered as such since the Learn IDE is not local, but the URL
  it gives you is the url you want to enter in the browser. If you are in the
-Learn IDE, you will see a different address — [here's an explanatory Help Center
+Learn IDE, you will see a differeçnt address — [here's an explanatory Help Center
 article](http://help.learn.co/the-learn-ide/common-ide-questions/accessing-localhost-in-the-learn-ide).
 Go ahead and copy and paste that into the browser. You should see `Welcome to
 your app!!!!` on the screen.
